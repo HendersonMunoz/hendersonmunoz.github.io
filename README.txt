@@ -1,8 +1,4 @@
-I used this HTML, CSS, and Javascript boilerplate from html5up to build my portfolio website. Using my HTML, and CSS knowledge,
-I was able to edit, add, and delete the existing code as needed. I chose to build my portfolio website using a boilerplate because
-my focus is on back-end developement. This website showcases some of my most recent Java projects, and It'll allow me to expand upon it,
-adding additional projects in the future. 
-
+I leveraged an HTML, CSS, and JavaScript boilerplate from html5up to develop my professional portfolio website. With my proficiency in HTML and CSS, I modified, added, and removed code elements to suit my specific requirements. Opting for a boilerplate solution was a strategic decision, driven by my focus in back-end development. The website serves as a platform to showcase my latest Java projects while providing flexibility for future expansion by incorporating additional projects.
 
 Credits:
 
